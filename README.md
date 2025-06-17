@@ -118,7 +118,7 @@ Quer ajudar a melhorar o projeto? Confira as etapas:
 
 ---
 
-## ❓ FAQs
+## FAQs
 
 **P: Preciso de conhecimento prévio para usar esse guia?**  
 R: Não. O guia começa do zero e vai até níveis avançados.
@@ -128,7 +128,7 @@ R: Não. Kali é para aprendizado e segurança ética. Use com responsabilidade.
 
 ---
 
-## 🔗 Links úteis
+## Links úteis
 
 - [Site oficial Kali Linux](https://www.kali.org/)  
 - [Documentação oficial Kali](https://docs.kali.org/)  
@@ -137,14 +137,14 @@ R: Não. Kali é para aprendizado e segurança ética. Use com responsabilidade.
 
 ---
 
-## ⚠️ Aviso legal
+## Aviso legal
 
 > Este repositório é para fins educacionais apenas.  
 > Use as informações com responsabilidade e dentro da lei.
 
 ---
 
-## 📜 Licença
+## Licença
 
 MIT License  
 Desenvolvido por Ruše  
