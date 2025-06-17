@@ -1,4 +1,4 @@
-# 0xOffensiveKali 🐉
+# 0xOffensiveKali 
 
 ![Kali Linux Logo](https://www.kali.org/images/kali-logo.svg)
 
