@@ -2,8 +2,6 @@
 
 ![Kali Linux Logo](https://www.kali.org/images/kali-logo.svg)
 
----
-
 <div align="center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)  
@@ -14,23 +12,32 @@
 
 ---
 
+## 📋 Sumário
+
+- [Sobre o projeto](#-sobre-o-projeto)  
+- [Estrutura do conteúdo](#-estrutura-do-conteúdo)  
+- [Como começar](#-como-começar)  
+- [Exemplos práticos](#-exemplos-práticos)  
+- [Roadmap](#-roadmap)  
+- [Como contribuir](#-como-contribuir)  
+- [FAQs](#-faqs)  
+- [Links úteis](#-links-úteis)  
+- [Aviso legal](#-aviso-legal)  
+- [Licença](#-licença)  
+- [Contato](#-contato)  
+
+---
+
 ## 📌 Sobre o projeto
 
-**0xOffensiveKali** é um repositório criado para quem deseja aprender Kali Linux com aplicação prática em Pentest, Red Team e Ethical Hacking.
-
-Aqui você encontra:
-
-- 🚀 **Trilha de aprendizado clara e direta**  
-- 📚 **Conteúdo acessível e organizado**  
-- 💻 **Foco total em uso real no terminal**  
-- 🛠️ **Ferramentas e técnicas de ataque ético**  
-- ⚖️ **Ética e responsabilidade digital**
+**0xOffensiveKali** é um guia completo para dominar o Kali Linux com foco em Pentest, Red Team e Ethical Hacking.  
+Conteúdo acessível, prático e atualizado para iniciantes e intermediários.
 
 ---
 
 ## 📂 Estrutura do conteúdo
 
-📁 **0xOffensiveKali/**  
+📁 0xOffensiveKali/  
 ├─ introducao/  
 │  ├─ 📄 o-que-e-kali.md  
 │  └─ 📄 objetivos-do-guia.md  
@@ -59,21 +66,81 @@ Aqui você encontra:
 
 ---
 
-## 🚀 Comece por aqui
+## 🚀 Como começar
 
 1. 📘 [O que é o Kali Linux?](./introducao/o-que-e-kali.md)  
-2. 🛠️ [Instale Kali numa VM](./instalacao/kali-vm.md)  
-3. 💻 [Domine o terminal](./terminal/comandos-basicos.md)  
-4. 🔍 [Ferramentas essenciais](./ferramentas/nmap.md)  
+2. 🛠️ [Instalação em VM](./instalacao/kali-vm.md)  
+3. 💻 [Comandos básicos do terminal](./terminal/comandos-basicos.md)  
+4. 🔍 [Ferramentas essenciais (Nmap, Metasploit)](./ferramentas/nmap.md)  
 5. 🔐 [Privilege Escalation](./exploracao/privilege-escalation.md)
+
+---
+
+## 📝 Exemplos práticos
+
+### Nmap - Scan rápido
+
+nmap -sV 192.168.0.1
+
+**Explicação:** Escaneia a máquina no IP informado e detecta versões dos serviços.
+
+---
+
+### Metasploit - Iniciar console
+
+msfconsole
+
+**Explicação:** Abre o console do Metasploit para iniciar testes.
+
+---
+
+## 🛣️ Roadmap
+
+- [x] Guia básico do Kali Linux  
+- [x] Instalação passo a passo  
+- [ ] Módulo avançado de scripting Bash  
+- [ ] Seção de exploração de vulnerabilidades web  
+- [ ] Guias sobre ferramentas como Burp Suite e Wireshark  
+- [ ] Mais exemplos práticos e exercícios  
+- [ ] Vídeos explicativos  
+
+---
+
+## 🤝 Como contribuir
+
+Quer ajudar a melhorar o projeto? Confira as etapas:
+
+1. Faça um fork deste repositório  
+2. Crie uma branch para sua feature (`git checkout -b feature/nome-da-feature`)  
+3. Commit suas mudanças (`git commit -m 'Descrição da feature'`)  
+4. Push para a branch (`git push origin feature/nome-da-feature`)  
+5. Abra um Pull Request aqui no GitHub  
+
+---
+
+## ❓ FAQs
+
+**P: Preciso de conhecimento prévio para usar esse guia?**  
+R: Não. O guia começa do zero e vai até níveis avançados.
+
+**P: Posso usar Kali Linux para atividades ilegais?**  
+R: Não. Kali é para aprendizado e segurança ética. Use com responsabilidade.
+
+---
+
+## 🔗 Links úteis
+
+- [Site oficial Kali Linux](https://www.kali.org/)  
+- [Documentação oficial Kali](https://docs.kali.org/)  
+- [Curso básico gratuito de Linux (Udemy)](https://www.udemy.com/course/linux-for-beginners/)  
+- [Guia do Metasploit (Official)](https://docs.rapid7.com/metasploit/)  
 
 ---
 
 ## ⚠️ Aviso legal
 
-> Este repositório é **exclusivamente educacional**.  
-> Todo uso prático deve respeitar as leis do seu país e ser feito com permissão.  
-> O objetivo é **ensinar segurança para proteger, não para atacar**.
+> Este repositório é para fins educacionais apenas.  
+> Use as informações com responsabilidade e dentro da lei.
 
 ---
 
@@ -87,8 +154,6 @@ Contribuições são muito bem-vindas!
 
 ## 📫 Contato
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/seu_twitter)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu_linkedin)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seuusuario)
 
 ---
