@@ -5,8 +5,8 @@
 <div align="center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)  
-[![GitHub stars](https://img.shields.io/github/stars/seuusuario/0xOffensiveKali?style=social)](https://github.com/seuusuario/0xOffensiveKali/stargazers)  
-[![GitHub forks](https://img.shields.io/github/forks/seuusuario/0xOffensiveKali?style=social)](https://github.com/seuusuario/0xOffensiveKali/network/members)  
+[![GitHub stars](https://img.shields.io/github/stars/seuusuario/0xOffensiveKali?style=social)](https://github.com/natrona/0xOffensiveKali/stargazers)  
+[![GitHub forks](https://img.shields.io/github/forks/seuusuario/0xOffensiveKali?style=social)](https://github.com/natrona/0xOffensiveKali/network/members)  
 
 </div>
 
@@ -106,7 +106,7 @@ msfconsole
 
 ---
 
-## 🤝 Como contribuir
+## Como contribuir
 
 Quer ajudar a melhorar o projeto? Confira as etapas:
 
